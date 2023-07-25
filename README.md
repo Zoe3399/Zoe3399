@@ -40,3 +40,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-800080?style=for-the-badge&logo=#5C2D91&logoColor=white">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Zoe3399=anuraghazra&show_icons=true&theme=radical)
