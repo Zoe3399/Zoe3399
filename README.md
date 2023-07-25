@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=#4479A1&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
-<h3 align="center"><b> 📎 소프트웨어 개발 도구 및 플랫폼📎</b></h3>
+<h3 align="center"><b> 📎 Tools📎</b></h3>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-800080?style=for-the-badge&logo=#5C2D91&logoColor=white">
