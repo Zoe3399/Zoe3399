@@ -34,7 +34,7 @@
 
 </p>
 
-<h3 align="center"><b> 📎소프트웨어 개발 도구 및 플랫폼 📎</b></h3>
+<h3 align="center"><b> 📎 소프트웨어 개발 도구 및 플랫폼📎</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
