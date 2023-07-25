@@ -33,10 +33,10 @@
 
 <h3>📈Most Used Language📉</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoe3399&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Zoe3399=Zoe3399&layout=compact&theme=tokyonight)
 
 <h3> 👩‍💻GitHub Stats </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe3399&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Zoe3399=Zoe3399&show_icons=true&theme=cobalt)
 </div>
 
