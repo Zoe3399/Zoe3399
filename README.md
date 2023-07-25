@@ -9,6 +9,7 @@
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
 <p align="center">
+  <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=C&#A8B9CC&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -28,6 +29,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+
 </p>
 
 <h3 align="center"><b> 📎소프트웨어 개발 도구 및 플랫폼 📎</b></h3>
