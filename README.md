@@ -1,7 +1,7 @@
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
-<a href="mailto:dororong69@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:메일@주소"/></a>
+<a href="mailto:dororong69@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dororong69@gmail.com"/></a>
 <a href="https://www.instagram.com/_99_juju"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_99_juju"/></a>
 <a href="https://sumni0303.tistory.com"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://sumni0303.tistory.com"/></a>
 </p>
@@ -42,5 +42,4 @@
 <img src="https://img.shields.io/badge/VisualStudio-800080?style=for-the-badge&logo=#5C2D91&logoColor=white">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Zoe3399=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
