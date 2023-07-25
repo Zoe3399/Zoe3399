@@ -1,5 +1,17 @@
 <div align="center">
 
+
+<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇Baekjoon Solved Rank🥇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈Most Used Language📉  </h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpad19)](https://solved.ac/tpad19/)
+&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoe3399&layout=compact&theme=tokyonight)
+
+<h3> 👩‍💻GitHub Stats </h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe3399&show_icons=true&theme=cobalt)
+
+<hr>
+
 <h3 align="center"><b>📚 Languages & Platfroms📚</b></h3>
 
 <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=C&#A8B9CC&logoColor=white">
@@ -25,18 +37,5 @@
 <a href="https://www.instagram.com/_99_juju"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_99_juju"/></a>
 <a href="https://sumni0303.tistory.com"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://sumni0303.tistory.com"/></a>
 
-<hr>
-
-<h3> 🥇Baekjoon Solved Rank🥇 </h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpad19)](https://solved.ac/tpad19/)
-
-<h3>📈Most Used Language📉</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoe3399&layout=compact&theme=tokyonight)
-
-<h3> 👩‍💻GitHub Stats </h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe3399&show_icons=true&theme=cobalt)
 </div>
 
