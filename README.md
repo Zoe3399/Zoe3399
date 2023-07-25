@@ -37,7 +37,11 @@
   
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe3399&show_icons=true&theme=cobalt)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpad19)](https://solved.ac/tpad19/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoe3399&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe3399&show_icons=true&theme=cobalt)
+
+
+
 </div>
 
