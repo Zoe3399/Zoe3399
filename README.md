@@ -29,7 +29,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=#4479A1&logoColor=white">
-<img src="https://img.shields.io/badge/mongoDB-800080?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
 </p>
 
@@ -38,4 +38,4 @@
 <p align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudio-#E6E6FA?style=for-the-badge&logo=#5C2D91&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudio-800080?style=for-the-badge&logo=#5C2D91&logoColor=white">
