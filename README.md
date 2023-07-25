@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpad19)](https://solved.ac/tpad19/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoe3399&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe3399&show_icons=true&theme=cobalt)
 
-<hr>
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 
@@ -39,6 +35,10 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-800080?style=for-the-badge&logo=#5C2D91&logoColor=white">
   
+<hr>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpad19)](https://solved.ac/tpad19/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoe3399&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe3399&show_icons=true&theme=cobalt)
 
 
 
