@@ -3,7 +3,7 @@
 <p align="center">
 <a href="mailto:dororong69@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:메일@주소"/></a>
 <a href="https://www.instagram.com/_99_juju"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_99_juju"/></a>
-<a href="https://velog.io/@youhyeoneee"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
+<a href="https://sumni0303.tistory.com"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://sumni0303.tistory.com"/></a>
 </p>
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
