@@ -28,7 +28,7 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-#F7DF1E?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=#4479A1&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
 </p>
