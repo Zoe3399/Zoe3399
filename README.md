@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&text=SeungjuPark&animation=twinkling&fontSize=60&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&text=Seungju　Park&animation=twinkling&fontSize=60&fontAlign=50&fontAlignY=50)
 
 <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇Baekjoon Solved Rank🥇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈Most Used Language📉  </h3>
 
