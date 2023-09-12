@@ -1,5 +1,6 @@
 <div align="center">
-
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&text=SeungjuPark&animation=twinkling&fontSize=60&fontAlign=50&fontAlignY=50)
 
 <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇Baekjoon Solved Rank🥇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈Most Used Language📉  </h3>
 
@@ -38,4 +39,3 @@
 <a href="https://sumni0303.tistory.com"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://sumni0303.tistory.com"/></a>
 
 </div>
-
