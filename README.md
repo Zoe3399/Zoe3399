@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&text=Seungju　Park&animation=twinkling&fontSize=60&fontAlign=50&fontAlignY=50)
 
-<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇Baekjoon Solved Rank🥇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈Most Used Language📉  </h3>
+<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇Baekjoon Solved Rank🥇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈Most Used Language📉 </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpad19)](https://solved.ac/tpad19/)
 &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoe3399&layout=compact&theme=tokyonight)
