@@ -2,17 +2,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&text=Seungju　Park&animation=twinkling&fontSize=60&fontAlign=50&fontAlignY=50)
 
-<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇Baekjoon Solved Rank🥇 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈Most Used Language📉 </h3>
+<h3>🥇Baekjoon Solved Rank🥇 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpad19)](https://solved.ac/tpad19/)
-&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoe3399&layout=compact&theme=tokyonight)
 
-<h3> 👩‍💻GitHub Stats </h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe3399&show_icons=true&theme=cobalt)
-
-<hr>
-
+---
 <h3 align="center"><b>📚 Languages & Platfroms📚</b></h3>
 
 <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=C&#A8B9CC&logoColor=white">
